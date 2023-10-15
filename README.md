@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Deva 👋
+
+- 🎓 Computer Science (Informatics Major) student at @TelkomUniversity
+- 🤖 Passionate about programming & head over heels for Mobile Development!
+- 👀 Currently diving into the exciting realm of Computer Vision.
+- 💼 Decent experience in Laravel & Flutter.
+- 📖 Conquering React.
+- 📚 Languages I've dabbled in: Java, PHP, Dart, C++, Python, JavaScript.
+- 🏢 Contributed to Office Attendance Systems & Wanderlust-inducing Travel Apps.
+- 🚀 On a quest to turn lines of code into awesome experiences!
 
 <!--
 **Pradeva/Pradeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
